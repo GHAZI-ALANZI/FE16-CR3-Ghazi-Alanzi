@@ -1,0 +1,42 @@
+.hero{
+    width: 100vw;
+    height: 30em;
+    background-image: url(https://gumlet.assettype.com/gomantaktimes%2F2022-04%2F9b9f0f94-0d56-4b9c-9985-406b1f3c3bb5%2FGomantak_Times_Banner__4_.png?auto=format%2Ccompress&fit=max&w=400&dpr=2.6);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center;
+    margin-bottom: 2%;
+}
+.card text {
+
+   
+    background-image: url(https://i0.wp.com/popkultur.de/wp-content/uploads/songszumtanzen.jpg?fit=749%2C562&ssl=1);
+}
+.fa-solid {
+    margin-left: 5%;
+    margin-bottom: 3%;
+    margin-top: 5%;
+    color: rgb(28, 132, 2);
+    font-size: 2em;
+    
+
+}
+.star{
+font-size: 2em;
+text-shadow: 1px 2px 4px rgb(255, 255, 255);
+
+}
+.container i{
+    font-size: 6em;
+    color: rgb(5, 229, 173);
+}
+
+
+
+@media only screen and (max-width: 540px) {
+    .img-fluid {
+      display: none;
+    }
+  }
+
+
