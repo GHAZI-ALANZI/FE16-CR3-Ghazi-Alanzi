@@ -1,6 +1,6 @@
 .hero{
     width: 100vw;
-    height: 30em;
+    min-height: 30em;
     background-image: url(https://gumlet.assettype.com/gomantaktimes%2F2022-04%2F9b9f0f94-0d56-4b9c-9985-406b1f3c3bb5%2FGomantak_Times_Banner__4_.png?auto=format%2Ccompress&fit=max&w=400&dpr=2.6);
     background-repeat: no-repeat;
     background-size: cover;
@@ -35,7 +35,7 @@ text-shadow: 1px 2px 4px rgb(255, 255, 255);
 
 @media only screen and (max-width: 540px) {
     .img-fluid {
-      display: none;
+    display: none;
     }
   }
 
